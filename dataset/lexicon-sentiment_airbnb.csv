@@ -1,0 +1,9 @@
+Topic,W1,W2,W3,W4,W5,W6,W7,W8,lexicon_sentiment
+1,beautiful,see,desgin,photo,local,station,visit,want,"{'anger': 0, 'anticipation': 0, 'disgust': 0, 'fear': 0, 'joy': 1, 'sadness': 0, 'surprise': 0, 'trust': 0}"
+2,room,water,get,bed,night,even ,first,use,"{'anger': 0, 'anticipation': 0, 'disgust': 0, 'fear': 0, 'joy': 0, 'sadness': 0, 'surprise': 0, 'trust': 0}"
+3,problem,try,property,toilet,dirty,point,different,price,"{'anger': 0, 'anticipation': 0, 'disgust': 2, 'fear': 1, 'joy': 0, 'sadness': 1, 'surprise': 0, 'trust': 0}"
+4,place,stay,clean,host,great,good,location,also,"{'anger': 0, 'anticipation': 1, 'disgust': 0, 'fear': 0, 'joy': 2, 'sadness': 0, 'surprise': 1, 'trust': 2}"
+5,apartment,large,bring,floor,pool,quiet,bed,city,"{'anger': 0, 'anticipation': 0, 'disgust': 0, 'fear': 0, 'joy': 0, 'sadness': 1, 'surprise': 0, 'trust': 0}"
+6,home,pool,feel,car,morning,could,help,perfect,"{'anger': 0, 'anticipation': 1, 'disgust': 0, 'fear': 0, 'joy': 1, 'sadness': 0, 'surprise': 0, 'trust': 1}"
+7,return,extra,ever,stain,happy,trip,photo,beautiful,"{'anger': 0, 'anticipation': 1, 'disgust': 1, 'fear': 0, 'joy': 2, 'sadness': 0, 'surprise': 1, 'trust': 1}"
+8,shampoo,communicate,cockroach,extra,slipper,sufficient,walkable,plate,"{'anger': 0, 'anticipation': 0, 'disgust': 0, 'fear': 0, 'joy': 0, 'sadness': 0, 'surprise': 0, 'trust': 1}"

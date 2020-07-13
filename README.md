@@ -11,3 +11,27 @@ Aside from hindering the company’s ability to improve, the lack of negative or
 4. Expect Extraction - LDA
 5. Aspect Sentiment Analysis
 6. Result.
+
+## How to run ipynb file
+
+```bash
+pip install -r requirement.txt
+jupyter lab 
+```
+
+## How to run the python file
+
+```
+1. Perform web scrapping from airbnb and trust pilot, running webscrapping/main.py 
+  1. To avoid iterative process, developer can choose to perform scrapping with RPA
+  
+2. Using airbnb/Topic Modelling.ipynb to run the lda model and create file "original_imbalanced_predictive_model.csv"
+  1. In order to treat the class imbalanaced issue on the dataset we have, we run sampling treatement to our model.
+  2. Then we perform logistic regression at the evaluation part to evaluate our model.
+  3. Running "LexiconBased in Airbnb.ipynb" complimenting with lbsa.py for sentiment analysis.
+
+3. Repeat step 2 on trust pilot data
+
+4. Running wordcloud to perform analysis
+
+```
